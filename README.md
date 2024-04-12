@@ -4,4 +4,4 @@ Contributors:
 Paras tiwari PhD scholar, CSE department IIT BHU, India  
 Dr. C. Ravindranath Chowdary, Associate Professor, CSE department IIT BHU, India
 Sawan Rai PhD scholar, CSE department IIITDM Jabalpur, India  
-We will add the required dataset and implementation code after the acceptance of our work. Meanwhile, data can be available on request for academic research purpose only. Send your request to: parastiwari.rs.cse19@iitbhu.ac.in
+Data is available for academic research purpose only.
